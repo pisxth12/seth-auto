@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import FrontRoute from "../front/router/frontRoute"
 
-const MaterRouter = () =>{
+const MasterRouter = () =>{
     return(
         <BrowserRouter>
             <Routes>
@@ -11,4 +11,4 @@ const MaterRouter = () =>{
     )
 }
 
-export default MaterRouter;
+export default MasterRouter;
