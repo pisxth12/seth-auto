@@ -1,6 +1,6 @@
 import React from 'react'
-import MasterRouter from './router/MasterRouter'
 import { BrowserRouter } from 'react-router-dom'
+import MasterRouter from './router/MasterRouter'
 const App = () => {
   return (
     <div>
